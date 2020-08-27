@@ -1,0 +1,11 @@
+sample	group
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/11_FRAS202355331-1r_cqout/abundances.cxb	11
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/12_FRAS202355332-1r_cqout/abundances.cxb	12
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/13_FRAS202355333-1r_cqout/abundances.cxb	13
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/14_FRAS202355334-1r_cqout/abundances.cxb	14
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/8_FRAS202355329-1r_cqout/abundances.cxb	8
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/9_FRAS202355330-1r_cqout/abundances.cxb	9
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/E1_FRAS202343944-1r_cqout/abundances.cxb	E1
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/E2_FRAS202343945-1r_cqout/abundances.cxb	E2
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/IL18-1_FRAS202343946-1r_cqout/abundances.cxb	IL18-1
+/lustre1/lch3000_pkuhpc/liuyt/denglab/data/RNA-seq_200709/cuffquant/IL18-2_FRAS202343947-1r_cqout/abundances.cxb	IL18-2
